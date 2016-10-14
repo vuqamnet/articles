@@ -4,4 +4,5 @@ date:   2016-10-14
 author: "Ali Rqiq"
 ---
 
-Site: [https://opdev.space](https://opdev.space){:target="_blank"}
+Site: 
+[https://opdev.space](https://opdev.space)
