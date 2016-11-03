@@ -21,8 +21,8 @@ rmissions></runAsUser></result></ns3:impersonateUserWithLanguageAndPropertiesRes
 ```
 The error output indicated that I needed to remove the user weblogic from the repository which indeed solved the issue.
 
-Using Oracle BI Administration Tool, remove the user weblogic from the RPD. 
-Save it and host it through the Enterprise Manager Console.
+Using Oracle BI Administration Tool, I removed the user weblogic from the RPD.
+Saved it and hosted it using the Enterprise Manager Console.
 
 ![image 0]({{ site.url }}/assets/images/posts/weblogicmatch/weblogic_does_not_match_00.png)
 
